@@ -12,9 +12,10 @@ Welcome to BookBarn, a web-based PHP CodeIgniter (CI) application with a MySQL d
 ## Installation
 Prerequisites:
 
-PHP (>=7.2)
-MySQL database
-Composer
+
+- PHP (>=7.2)
+- MySQL database
+- Composer
 Steps
 
 1.Clone the Repository:
@@ -55,4 +56,8 @@ Basic Usage
         Share your thoughts and opinions by adding reviews.
 4.Community Features:
         Engage with other users through discussion forums and chat features.
+## Contact
+For issues, suggestions, or any other inquiries, please contact us at jinalighoghari01@gmail.com.
+
+Happy reading with BookBarn! 
 # Thank you 
