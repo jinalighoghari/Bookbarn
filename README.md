@@ -7,7 +7,7 @@
 ## Bookbarn
 #
 ## Project Description
-Welcome to BookBarn, a web-based PHP CodeIgniter (CI) application with a MySQL database. BookBarn provides a platform for users to buy or sell old books from various categories. Users can interact with the platform by liking books, giving reviews, and participating in a community that shares a passion for reading.
+Welcome to BookBarn, a web-based PHP CodeIgniter (CI) application with a MySQL database. BookBarn provides a platform for users to buy or sell books from various categories. 
 # 
 ## Installation
 Prerequisites:
@@ -51,11 +51,7 @@ Basic Usage
 2.Book Listing:
         Sellers can list books for sale, providing necessary details.
         Buyers can browse and search for books.
-3.Interaction:
-        Express your appreciation for a book by liking it.
-        Share your thoughts and opinions by adding reviews.
-4.Community Features:
-        Engage with other users through discussion forums and chat features.
+
 ## Contact
 For issues, suggestions, or any other inquiries, please contact us at jinalighoghari01@gmail.com.
 
